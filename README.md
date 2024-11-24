@@ -1,2 +1,2 @@
 # Portfolio
-Using Typescript, Tailwind, And javascript
+Using HTML, Css Tailwind Typescript And javascript
